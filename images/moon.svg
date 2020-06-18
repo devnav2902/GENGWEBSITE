@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="133" height="133" style="width: 133px; height: 133px; background: none; shape-rendering: auto;"><path></path><g class="layer" transform="matrix(1 0 0 1 0 0) matrix(1 0 0 1 16 16)"><g class="ani"><circle fill-rule="evenodd" clip-rule="evenodd" fill="#FFDC6E" cx="33.3" cy="37.7" r="23.3" style="clip-rule: evenodd; cx: 33.3px; cy: 37.7px; fill: rgb(255, 220, 110); fill-rule: evenodd; r: 23.3px;"></circle></g></g><g class="layer" transform="matrix(1 0 0 1 16 16) matrix(1 0 0 1 0 0)"><g class="ani" style="transform-origin: 45.2156px 59.1px; transform: translate(-6px, 0px); animation: 4.16667s linear 0s infinite normal forwards running wander-h-9545882f-4d5e-4e09-add2-76a0a86c7d04;"><path fill-rule="evenodd" clip-rule="evenodd" fill="#445566" d="M78.5,58.1c0.6-1.9,0.9-3.9,0.9-5.9c0-10.8-8.8-19.6-19.6-19.6
+	c-7.5,0-14,4.2-17.3,10.4c-1.2-0.4-2.6-0.6-3.9-0.6c-7.2,0-13,5.8-13,13c0,0.9,0.1,1.8,0.3,2.6c-6.6,1-11.7,6.8-11.7,13.7
+	c0,7.7,6.2,13.9,13.9,13.9h48.1c7.7,0,13.9-6.2,13.9-13.9C90,64.9,85,59.2,78.5,58.1z" style="clip-rule: evenodd; fill: fill-rule: evenodd;"></path></g></g><style id="wander-h-af9c746a-c140-4f69-ac07-83bededf123d" data-anikit="">@keyframes wander-h-af9c746a-c140-4f69-ac07-83bededf123d
+{
+  0% {
+    animation-timing-function: cubic-bezier(0.7806,0.0715,0.8998,0.731);
+    transform: translate(-6px,0);
+  }
+  17.5% {
+    animation-timing-function: cubic-bezier(0.484,0.3308,0.6853,0.6667);
+    transform: translate(-3.708px,0);
+  }
+  27.6% {
+    animation-timing-function: cubic-bezier(0.2459,0.3343,0.4923,0.6717);
+    transform: translate(1.488px,0);
+  }
+  35.1% {
+    animation-timing-function: cubic-bezier(0.1317,0.3401,0.311,0.9176);
+    transform: translate(4.494px,0);
+  }
+  50.1% {
+    animation-timing-function: cubic-bezier(0.7773,0.0708,0.9008,0.735);
+    transform: translate(6px,0);
+  }
+  67.6% {
+    animation-timing-function: cubic-bezier(0.4888,0.331,0.6153,0.6674);
+    transform: translate(3.6959999999999997px,0);
+  }
+  80% {
+    animation-timing-function: cubic-bezier(0.2539,0.3274,0.5671,0.676);
+    transform: translate(-2.742px,0);
+  }
+  85% {
+    animation-timing-function: cubic-bezier(0.1302,0.3349,0.3113,0.9183);
+    transform: translate(-4.482px,0);
+  }
+  100% {
+    transform: translate(-6px,0);
+  }
+}</style><style id="wander-h-9545882f-4d5e-4e09-add2-76a0a86c7d04" data-anikit="">@keyframes wander-h-9545882f-4d5e-4e09-add2-76a0a86c7d04
+{
+  0% {
+    animation-timing-function: cubic-bezier(0.7806,0.0715,0.8998,0.731);
+    transform: translate(-6px,0);
+  }
+  17.5% {
+    animation-timing-function: cubic-bezier(0.484,0.3308,0.6853,0.6667);
+    transform: translate(-3.708px,0);
+  }
+  27.6% {
+    animation-timing-function: cubic-bezier(0.2459,0.3343,0.4923,0.6717);
+    transform: translate(1.488px,0);
+  }
+  35.1% {
+    animation-timing-function: cubic-bezier(0.1317,0.3401,0.311,0.9176);
+    transform: translate(4.494px,0);
+  }
+  50.1% {
+    animation-timing-function: cubic-bezier(0.7773,0.0708,0.9008,0.735);
+    transform: translate(6px,0);
+  }
+  67.6% {
+    animation-timing-function: cubic-bezier(0.4888,0.331,0.6153,0.6674);
+    transform: translate(3.6959999999999997px,0);
+  }
+  80% {
+    animation-timing-function: cubic-bezier(0.2539,0.3274,0.5671,0.676);
+    transform: translate(-2.742px,0);
+  }
+  85% {
+    animation-timing-function: cubic-bezier(0.1302,0.3349,0.3113,0.9183);
+    transform: translate(-4.482px,0);
+  }
+  100% {
+    transform: translate(-6px,0);
+  }
+}</style></svg>
