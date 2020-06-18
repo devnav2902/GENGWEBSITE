@@ -1217,6 +1217,9 @@ a.typingText:hover {
     }
 }
 @media (max-width: 768px){
+   .botchat {
+	top: 25%!important;
+    }
     .random__Quote {
         display: none!important;
     }
