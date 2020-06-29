@@ -1,4 +1,4 @@
-// function utilities test,filter,learning,inportant
+// function utilities test,filter,learning,important
 icons.forEach(icon => {
     icon.addEventListener('click',function(event){
 
