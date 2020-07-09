@@ -55,13 +55,13 @@ document.addEventListener("DOMContentLoaded",function(){
         clearInterval(flickerBOT);
 
         // bot talk 
-        let talk = new Audio('sound/cutietalk.mp3');
-        talk.play();    
+        //let talk = new Audio('sound/cutietalk.mp3');
+        //talk.play();    
     })
 
     // play audio when load page
-    let welcome = new Audio('sound/Success-sound-effect.mp3');
-    welcome.play();
+    //let welcome = new Audio('sound/Success-sound-effect.mp3');
+    //welcome.play();
 
 });
 
@@ -110,8 +110,8 @@ function setItem(){
 
             showItem('Success !!!',2500);
             
-            let success = new Audio('sound/addsuccess.wav');
-            success.play();
+            //let success = new Audio('sound/addsuccess.wav');
+            //success.play();
         },2000)
 
 
